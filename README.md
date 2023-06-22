@@ -9,9 +9,9 @@
 
 - 📝 Eu escrevo artigos no site [https://datamarketingdigital.com.br/blog/](https://datamarketingdigital.com.br/blog/)
 
-- 💬 Me pergunte sobre **SQL, Google Data Studio, Power BI, Excel e Python**
+- 💬 Me pergunte sobre **PHP, Java, Angular, ReactJS, ViewJS, SQL, PHPStorm, ZendFramework e Laravel**
 
-- 📫Você me acha através do e-mail **dmhubdigital@gmail.com**
+- 📫Você me acha através do e-mail **alissondeveloper@gmail.com**
 
 - 📄 Fui fundada por Luan Porphirio e aqui estão as habilidades que me criaram [https://www.linkedin.com/in/luan-porphirio/](https://www.linkedin.com/in/luan-porphirio/)
 
