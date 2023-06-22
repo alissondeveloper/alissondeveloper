@@ -1,9 +1,9 @@
-<h1 align="center">Oi 👋, Eu sou a Data Marketing</h1>
-<h3 align="center">Apaixonado por ciência e análise de dados no mundo digital</h3>
+<h1 align="center">Oi 👋, Eu sou a Alisson Nunes da Rocha</h1>
+<h3 align="center">Apaixonado por tecnologia e programação web</h3>
 
-- 🔭 Atualmente estou trabalhando com análise e visualização de dados [Viver de dados com Data Studio](https://viverdedados.datamarketingdigital.com.br/datastudiopre)
+- 🔭 Atualmente estou trabalhando como programador sênior PHP na CAPES pela [DATAINFO](https://www.datainfo.inf.br)
 
-- 🌱 Atualmente estou aprendendo **Python e Machine Learning**
+- 🌱 Profissional certificado [PHP](https://www.zend-zce.com/en/yellow-pages/ZEND023956)
 
 - 👯 Também estou compartilhando conteúdo no Youtube [Canal Youtube](https://www.youtube.com/channel/UCAg-ddg4ptqzTP8mu4NlLSA)
 
