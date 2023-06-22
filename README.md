@@ -3,7 +3,7 @@
 
 - 🌐 Profissional com formação sólida em Banco de Dados Oracle, Postgresql, SQL Server, PHP, Arquitetura de Software, Bancos de Dados, HTML e Linux Server.
   
-- 🔭 Atualmente estou trabalhando como programador sênior PHP na CAPES pela [DATAINFO](https://www.datainfo.inf.br)
+- 🔭 Atualmente estou trabalhando como programador sênior **Full Stack** na CAPES pela [DATAINFO](https://www.datainfo.inf.br)
 
 - 🌱 Profissional certificado [PHP](https://www.zend-zce.com/en/yellow-pages/ZEND023956)
 
