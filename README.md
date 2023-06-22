@@ -9,7 +9,9 @@
 
 - 💬 Me pergunte sobre **PHP, Java, Angular, ReactJS, ViewJS, SQL, PHPStorm, ZendFramework e Laravel**
 
-- 📫Você me acha através do e-mail **alissondeveloper@gmail.com**
+- 📫 Você me acha através do e-mail **alissondeveloper@gmail.com**
+
+- 👨‍🎓 Currículo atualizado [Download](https://github.com/alissondeveloper/alissondeveloper/blob/71da480800bc5fc57533bae196a5e927320892d7/Profile-alisson.pdf)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
